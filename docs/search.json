@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a website to introduce the projects of Andy Zhang."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background：",
+    "text": "Background：\n\nEducation:\nThe University of British Columbia | Vancouver, Canada\nThe Ohio State University | Columbus, OH\nZhejiang University | Hangzhou, China\n\n\nResearch Interests:\nApplied Statistics, Statistical Machine Learning, Numerical Optimization"
+  },
+  {
+    "objectID": "about.html#relevant-coursework",
+    "href": "about.html#relevant-coursework",
+    "title": "About",
+    "section": "Relevant Coursework：",
+    "text": "Relevant Coursework：\n\nData Science Courses @UBC:\nhttps://ubc-mds.github.io/descriptions/\n\n\nStatistics Courses @OSU:\nStatistics Theory I \\(\\&\\) II, Advanced Statistics Theory I \\(\\&\\) II, Applied Statistics I \\(\\&\\) II, Applied Bayesian Analysis, Theory of the Linear Model, Theory of Probability, Theory of Stochastic Processes, Advanced Computational Statistics, Bayesian Analysis and Decision Theory, Theory of Nonparametric Statistics, Statistical Machine Learning, Time Series Analysis, Generalized Linear Models, Design and Analysis of Clinical Trials, Survival Analysis, Spatial Statistics\n\n\nComputer Science Courses @OSU:\nFoundations II: Data Structures and Algorithms, Survey of Artificial Intelligence II: Advanced Techniques, Machine Learning, Algorithms."
+  },
+  {
+    "objectID": "about.html#relevant-skills",
+    "href": "about.html#relevant-skills",
+    "title": "About",
+    "section": "Relevant Skills:",
+    "text": "Relevant Skills:\n\nLanguages:\nPython, R, MATLAB, PostgreSQL, MongoDB, C/C++, bash, GIT, Docker, LaTeX\n\n\nPackages:\nPandas, Numpy, SciPy, scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow"
+  },
+  {
+    "objectID": "about.html#github",
+    "href": "about.html#github",
+    "title": "About",
+    "section": "GitHub：",
+    "text": "GitHub：\nhttps://github.com/andyzhangstat"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website",
+    "section": "",
+    "text": "Hi there, I’m Andy.\nWelcome to my website! I currently reside in the beautiful city of Vancouver. I enjoy hiking, and here are some photos taken previously."
+  }
+]

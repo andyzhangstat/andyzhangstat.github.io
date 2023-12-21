@@ -1,0 +1,14 @@
+---
+title: "Website"
+---
+
+
+
+Hi there, I'm Andy. 
+
+Welcome to my website! I currently reside in the beautiful city of Vancouver. I enjoy hiking, and here are some photos taken previously.
+
+![](van_pic_1.jpg){width=300} ![](van_pic_2.jpg){width=300}
+
+
+

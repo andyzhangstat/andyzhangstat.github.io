@@ -1,0 +1,57 @@
+---
+title: "About"
+---
+
+This is a website to introduce the projects of Andy Zhang.
+
+
+
+## Background：
+
+
+### Education:
+The University of British Columbia | Vancouver, Canada
+
+The Ohio State University | Columbus, OH
+
+Zhejiang University | Hangzhou, China
+
+
+
+### Research Interests:
+Applied Statistics, Statistical Machine Learning, Numerical Optimization
+
+
+
+## Relevant Coursework：
+
+### Data Science Courses @UBC:
+https://ubc-mds.github.io/descriptions/
+
+
+### Statistics Courses @OSU:
+Statistics Theory I $\&$ II, Advanced Statistics Theory I $\&$ II, Applied Statistics I $\&$ II, Applied Bayesian Analysis, Theory of the Linear Model, Theory of Probability, Theory of Stochastic Processes, Advanced Computational Statistics, Bayesian Analysis and Decision Theory, Theory of Nonparametric Statistics, Statistical Machine Learning, Time Series Analysis, Generalized Linear Models, Design and Analysis of Clinical Trials, Survival Analysis, Spatial Statistics
+
+### Computer Science Courses @OSU:
+Foundations II: Data Structures and Algorithms, Survey of Artificial Intelligence II: Advanced Techniques, Machine Learning, Algorithms.
+
+
+
+
+## Relevant Skills:
+
+### Languages:
+Python, R, MATLAB, PostgreSQL, MongoDB, 
+C/C++, bash, GIT, Docker, LaTeX
+
+
+### Packages:
+Pandas, Numpy, SciPy, scikit-learn, 
+XGBoost, LightGBM, CatBoost,
+PyTorch, TensorFlow
+
+
+## GitHub：
+https://github.com/andyzhangstat
+
+
