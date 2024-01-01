@@ -26,13 +26,17 @@ Applied Statistics, Statistical Machine Learning, Numerical Optimization
 ## Relevant Coursework：
 
 ### Data Science Courses @UBC:
-https://ubc-mds.github.io/descriptions/
+[ubc-mds.github.io/descriptions/](https://ubc-mds.github.io/descriptions/)
 
 
 ### Statistics Courses @OSU:
+[stat.osu.edu/courses](https://stat.osu.edu/courses)
+
 Statistics Theory I $\&$ II, Advanced Statistics Theory I $\&$ II, Applied Statistics I $\&$ II, Applied Bayesian Analysis, Theory of the Linear Model, Theory of Probability, Theory of Stochastic Processes, Advanced Computational Statistics, Bayesian Analysis and Decision Theory, Theory of Nonparametric Statistics, Statistical Machine Learning, Time Series Analysis, Generalized Linear Models, Design and Analysis of Clinical Trials, Survival Analysis, Spatial Statistics
 
 ### Computer Science Courses @OSU:
+[cse.osu.edu/courses](https://cse.osu.edu/courses)
+
 Foundations II: Data Structures and Algorithms, Survey of Artificial Intelligence II: Advanced Techniques, Machine Learning, Algorithms.
 
 
@@ -52,6 +56,6 @@ PyTorch, TensorFlow
 
 
 ## GitHub：
-https://github.com/andyzhangstat
+[github.com/andyzhangstat](https://github.com/andyzhangstat)
 
 

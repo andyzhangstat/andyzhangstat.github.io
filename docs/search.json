@@ -18,7 +18,7 @@
     "href": "about.html#relevant-coursework",
     "title": "About",
     "section": "Relevant Coursework：",
-    "text": "Relevant Coursework：\n\nData Science Courses @UBC:\nhttps://ubc-mds.github.io/descriptions/\n\n\nStatistics Courses @OSU:\nStatistics Theory I \\(\\&\\) II, Advanced Statistics Theory I \\(\\&\\) II, Applied Statistics I \\(\\&\\) II, Applied Bayesian Analysis, Theory of the Linear Model, Theory of Probability, Theory of Stochastic Processes, Advanced Computational Statistics, Bayesian Analysis and Decision Theory, Theory of Nonparametric Statistics, Statistical Machine Learning, Time Series Analysis, Generalized Linear Models, Design and Analysis of Clinical Trials, Survival Analysis, Spatial Statistics\n\n\nComputer Science Courses @OSU:\nFoundations II: Data Structures and Algorithms, Survey of Artificial Intelligence II: Advanced Techniques, Machine Learning, Algorithms."
+    "text": "Relevant Coursework：\n\nData Science Courses @UBC:\nubc-mds.github.io/descriptions/\n\n\nStatistics Courses @OSU:\nstat.osu.edu/courses\nStatistics Theory I \\(\\&\\) II, Advanced Statistics Theory I \\(\\&\\) II, Applied Statistics I \\(\\&\\) II, Applied Bayesian Analysis, Theory of the Linear Model, Theory of Probability, Theory of Stochastic Processes, Advanced Computational Statistics, Bayesian Analysis and Decision Theory, Theory of Nonparametric Statistics, Statistical Machine Learning, Time Series Analysis, Generalized Linear Models, Design and Analysis of Clinical Trials, Survival Analysis, Spatial Statistics\n\n\nComputer Science Courses @OSU:\ncse.osu.edu/courses\nFoundations II: Data Structures and Algorithms, Survey of Artificial Intelligence II: Advanced Techniques, Machine Learning, Algorithms."
   },
   {
     "objectID": "about.html#relevant-skills",
@@ -32,7 +32,7 @@
     "href": "about.html#github",
     "title": "About",
     "section": "GitHub：",
-    "text": "GitHub：\nhttps://github.com/andyzhangstat"
+    "text": "GitHub：\ngithub.com/andyzhangstat"
   },
   {
     "objectID": "index.html",
