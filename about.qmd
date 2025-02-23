@@ -12,14 +12,15 @@ This is a website to introduce the projects of Andy Zhang.
 ### Education:
 <!-- The University of British Columbia | Vancouver, Canada -->
 
-The Ohio State University | Columbus, OH | PhD in Statistics
+PhD in Statistics, The Ohio State University
 
 <!-- Zhejiang University | Hangzhou, China -->
 
 
 
 ### Interests:
-Generative AI, LLMs, Applied Statistics, Statistical Machine Learning, Numerical Optimization
+- Generative AI, LLMs
+- Statistical Machine Learning, Numerical Optimization
 
 
 
